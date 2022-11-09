@@ -1,6 +1,7 @@
 # Bank-Application
 ### Introduction and Summary
-Redo and upgrade of fintect take home test in a Full Stack Application built in Typescript, Reactjs, Ruby on Rails, Antd, Redux, TDD, Chartjs
+Redo and upgrade of fintech take home test in a Full Stack Application built in Typescript, Reactjs, Ruby on Rails, Antd, Redux, TDD, Chartjs.
+
 Recently just finished a take-home-assessment for a fintech transaction dashboard for the frontend with Nextjs, typescript and redux.
 I learn better building projects, writing my decisions and thoughts. 
 
