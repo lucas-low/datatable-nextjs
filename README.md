@@ -6,6 +6,7 @@ I learn better building projects, writing my decisions and thoughts.
 
 ### Technologies and tooling chain. Thoughts of them to include later.
 ```
+Planning to integrating React-Rails with Webpacker whereby React components will be in app/javascript folder included in rails' views.
 1. Reactjs (Frontend)
 2. Nodejs
 3. Typescript
