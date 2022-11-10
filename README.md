@@ -37,7 +37,10 @@ yarn dev
 - Optional CRUD operations for Creating Orders in a seperate route for maybe food ordering application
 ```
 
-### Best Practices References
+### References
+- [Software Engineering at Google](https://abseil.io/resources/swe-book)
+This one really is a rabbit hole on Guiding Principles and its broken into distinct usable parts i.e: trade-offs, scale, testing, maintainable software
 - [TypeScript React Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 - [Redux Style Guide](https://redux.js.org/style-guide/)
-- 
+
+- [Software Engineering at Google](https://abseil.io/resources/swe-book)
